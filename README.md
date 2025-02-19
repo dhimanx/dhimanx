@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/dhiman_a_k" target="blank"><img src="https://img.shields.io/twitter/follow/dhiman_a_k?logo=twitter&style=for-the-badge" alt="dhiman_a_k" /></a> </p>
 
-- 🌱 I’m currently learning **Software Quality Assurance**
+- 🌱 I’m currently learning **Software Quality Assurance & UI/UX**
 
-- 💬 Ask me about **Manual Testing, API testing, Performance testing, Postman, jmeter, Jira**
+- 💬 Ask me about **Manual Testing, API testing, Performance testing, Postman, jmeter, Jira, other UI/UX related**
 
 - 📫 How to reach me **dhiman.x1@gmail.com**
 
